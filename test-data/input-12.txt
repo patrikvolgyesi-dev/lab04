@@ -1,0 +1,4 @@
+# WHITE-BOX: primary fired last, secondary empty, primary empty too
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary fires its last torpedo
+TORPEDO,SINGLE  # secondary empty, primary empty -> fail

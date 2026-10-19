@@ -1,0 +1,3 @@
+# REQ: SINGLE - first shot with empty primary falls back to secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE

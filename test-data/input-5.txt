@@ -1,0 +1,3 @@
+# REQ: SINGLE - if the fired store fails, the other one is not tried
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
