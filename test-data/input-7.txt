@@ -1,0 +1,4 @@
+# REQ: ALL - fires both stores
+GT4500,1,0,1,0
+TORPEDO,ALL     # fires both
+TORPEDO,SINGLE  # both stores must be empty now

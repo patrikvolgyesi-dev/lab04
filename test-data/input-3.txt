@@ -1,0 +1,4 @@
+# REQ: SINGLE - if the store next in line is empty, fire the other one
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary empty -> primary again

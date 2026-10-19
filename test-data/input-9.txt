@@ -1,0 +1,3 @@
+# REQ: ALL - succeeds if at least one store fires (primary fails)
+GT4500,1,1.0,1,0
+TORPEDO,ALL
